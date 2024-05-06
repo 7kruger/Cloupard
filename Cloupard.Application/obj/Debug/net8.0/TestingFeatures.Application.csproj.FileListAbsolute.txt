@@ -1,0 +1,15 @@
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\bin\Debug\net8.0\TestingFeatures.Application.deps.json
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\bin\Debug\net8.0\TestingFeatures.Application.dll
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\bin\Debug\net8.0\TestingFeatures.Application.pdb
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\bin\Debug\net8.0\TestingFeatures.Domain.dll
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\bin\Debug\net8.0\TestingFeatures.Domain.pdb
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\TestingFeatures.Application.csproj.AssemblyReference.cache
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\TestingFeatures.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\TestingFeatures.Application.AssemblyInfoInputs.cache
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\TestingFeatures.Application.AssemblyInfo.cs
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\TestingFeatures.Application.csproj.CoreCompileInputs.cache
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\TestingF.5FC2C699.Up2Date
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\TestingFeatures.Application.dll
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\refint\TestingFeatures.Application.dll
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\TestingFeatures.Application.pdb
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.Application\obj\Debug\net8.0\ref\TestingFeatures.Application.dll

@@ -1,0 +1,15 @@
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\bin\Debug\net8.0\TestingFeatures.DAL.deps.json
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\bin\Debug\net8.0\TestingFeatures.DAL.dll
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\bin\Debug\net8.0\TestingFeatures.DAL.pdb
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\bin\Debug\net8.0\TestingFeatures.Domain.dll
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\bin\Debug\net8.0\TestingFeatures.Domain.pdb
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\TestingFeatures.DAL.csproj.AssemblyReference.cache
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\TestingFeatures.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\TestingFeatures.DAL.AssemblyInfoInputs.cache
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\TestingFeatures.DAL.AssemblyInfo.cs
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\TestingFeatures.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\TestingF.FD6BF07D.Up2Date
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\TestingFeatures.DAL.dll
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\refint\TestingFeatures.DAL.dll
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\TestingFeatures.DAL.pdb
+C:\Users\kruger\source\repos\TestingFeatures\TestingFeatures.DAL\obj\Debug\net8.0\ref\TestingFeatures.DAL.dll

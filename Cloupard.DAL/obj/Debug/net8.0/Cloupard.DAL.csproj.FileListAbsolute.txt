@@ -1,0 +1,17 @@
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\bin\Debug\net8.0\Cloupard.DAL.deps.json
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\bin\Debug\net8.0\Cloupard.DAL.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\bin\Debug\net8.0\Cloupard.DAL.pdb
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\bin\Debug\net8.0\Cloupard.Domain.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\bin\Debug\net8.0\Cloupard.Domain.pdb
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\bin\Debug\net8.0\en\Cloupard.Domain.resources.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\bin\Debug\net8.0\ru\Cloupard.Domain.resources.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\Cloupard.DAL.csproj.AssemblyReference.cache
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\Cloupard.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\Cloupard.DAL.AssemblyInfoInputs.cache
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\Cloupard.DAL.AssemblyInfo.cs
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\Cloupard.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\Cloupard.91A20E0D.Up2Date
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\Cloupard.DAL.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\refint\Cloupard.DAL.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\Cloupard.DAL.pdb
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.DAL\obj\Debug\net8.0\ref\Cloupard.DAL.dll

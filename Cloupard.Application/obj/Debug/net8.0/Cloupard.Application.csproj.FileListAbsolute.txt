@@ -1,0 +1,17 @@
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\bin\Debug\net8.0\Cloupard.Application.deps.json
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\bin\Debug\net8.0\Cloupard.Application.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\bin\Debug\net8.0\Cloupard.Application.pdb
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\bin\Debug\net8.0\Cloupard.Domain.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\bin\Debug\net8.0\Cloupard.Domain.pdb
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\bin\Debug\net8.0\en\Cloupard.Domain.resources.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\bin\Debug\net8.0\ru\Cloupard.Domain.resources.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\Cloupard.Application.csproj.AssemblyReference.cache
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\Cloupard.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\Cloupard.Application.AssemblyInfoInputs.cache
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\Cloupard.Application.AssemblyInfo.cs
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\Cloupard.Application.csproj.CoreCompileInputs.cache
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\Cloupard.89ED2ED5.Up2Date
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\Cloupard.Application.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\refint\Cloupard.Application.dll
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\Cloupard.Application.pdb
+C:\Users\kruger\source\repos\TestingFeatures\Cloupard.Application\obj\Debug\net8.0\ref\Cloupard.Application.dll
