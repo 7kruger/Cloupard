@@ -26,7 +26,7 @@ public class CreateProductCommandHandler : IRequestHandler<CreateProductCommand,
             DeletedAt = null
         };
 
-        await _unitOfWork.Products.AddAsync(product);
+        await _unitOfWork.Products.AddAsync(product, cancellationToken);
 
         return product.Id;
     }

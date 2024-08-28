@@ -20,6 +20,11 @@ public class UnitOfWork : IUnitOfWork
         return await _dbContext.Database.BeginTransactionAsync(cancellationToken);
     }
 
+    public int SaveChanges()
+    {
+        return _dbContext.SaveChanges();
+    }
+    
     public async Task SaveChangesAsync(CancellationToken cancellationToken = default)
     {
         await _dbContext.SaveChangesAsync(cancellationToken);

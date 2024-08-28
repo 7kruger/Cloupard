@@ -1,6 +1,7 @@
 using Cloupard.Application.Common.Exceptions;
 using Cloupard.Domain.Entities;
 using Cloupard.Application.Interfaces.Repositories;
+using Cloupard.Application.Specifications.Products;
 using MediatR;
 
 namespace Cloupard.Application.Products.Commands.UpdateProduct;
@@ -16,7 +17,8 @@ public class UpdateProductCommandHandler : IRequestHandler<UpdateProductCommand,
 
     public async Task<Unit> Handle(UpdateProductCommand request, CancellationToken cancellationToken)
     {
-        var product = await _unitOfWork.Products.GetByIdAsync(request.Id);
+        var spec = new GetProductSpecification(request.Id);
+        var product = await _unitOfWork.Products.FirstOrDefaultAsync(spec, cancellationToken);
 
         if (product == null)
         {
@@ -27,7 +29,7 @@ public class UpdateProductCommandHandler : IRequestHandler<UpdateProductCommand,
         product.Price = request.Price;
         product.UpdatedAt = DateTime.UtcNow;
 
-        await _unitOfWork.Products.UpdateAsync(product);
+        await _unitOfWork.Products.UpdateAsync(product, cancellationToken);
         
         return Unit.Value;
     }

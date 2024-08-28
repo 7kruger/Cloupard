@@ -1,8 +1,7 @@
 using AutoMapper;
-using AutoMapper.QueryableExtensions;
 using Cloupard.Application.Interfaces.Repositories;
+using Cloupard.Application.Specifications.Products;
 using MediatR;
-using Microsoft.EntityFrameworkCore;
 
 namespace Cloupard.Application.Products.Queries.GetProductList;
 
@@ -19,10 +18,9 @@ public class GetProductListQueryHandler : IRequestHandler<GetProductListQuery, P
 
     public async Task<ProductListVm> Handle(GetProductListQuery request, CancellationToken cancellationToken)
     {
-        var products = await _unitOfWork.Products.GetAll()
-            .ProjectTo<ProductLookupDto>(_mapper.ConfigurationProvider)
-            .ToListAsync(cancellationToken);
+        var spec = new GetProductListSpecification();
+        var products = await _unitOfWork.Products.ListAsync(spec, cancellationToken);
 
-        return new ProductListVm(products);
+        return new ProductListVm(_mapper.Map<IList<ProductLookupDto>>(products));
     }
 }
