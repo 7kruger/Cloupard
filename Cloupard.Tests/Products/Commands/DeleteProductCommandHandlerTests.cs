@@ -1,6 +1,6 @@
 using Cloupard.Application.Common.Exceptions;
 using Cloupard.Application.Products.Commands.DeleteProduct;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 using Cloupard.Tests.Common;
 
 namespace Cloupard.Tests.Products.Commands;

@@ -1,6 +1,6 @@
 using AutoMapper;
 using AutoMapper.QueryableExtensions;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 

@@ -1,7 +1,7 @@
 using Cloupard.Domain.Entities;
 using Microsoft.EntityFrameworkCore.Storage;
 
-namespace Cloupard.Domain.Interfaces;
+namespace Cloupard.Application.Interfaces.Repositories;
 
 public interface IUnitOfWork
 {

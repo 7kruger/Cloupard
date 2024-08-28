@@ -1,6 +1,6 @@
 using AutoMapper;
 using Cloupard.Application.Products.Queries.GetProductList;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 using Cloupard.Tests.Common;
 using Shouldly;
 

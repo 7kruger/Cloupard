@@ -1,5 +1,5 @@
 using Cloupard.DAL.Data;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 
 namespace Cloupard.DAL.Repositories;
 

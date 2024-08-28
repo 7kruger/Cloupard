@@ -1,7 +1,7 @@
 using AutoMapper;
 using Cloupard.Application.Mappings;
 using Cloupard.DAL.Repositories;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 
 namespace Cloupard.Tests.Common;
 

@@ -1,7 +1,7 @@
 using Cloupard.DAL.Data;
 using Cloupard.DAL.Interceptors;
 using Cloupard.DAL.Repositories;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.Extensions.Configuration;

@@ -1,4 +1,4 @@
-using Cloupard.Application.Interfaces;
+using Cloupard.Application.Interfaces.Services;
 using MediatR;
 using Serilog;
 

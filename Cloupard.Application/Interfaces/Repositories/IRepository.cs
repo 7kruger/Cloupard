@@ -1,4 +1,4 @@
-namespace Cloupard.Domain.Interfaces;
+namespace Cloupard.Application.Interfaces.Repositories;
 
 public interface IRepository<TEntity> where TEntity : class
 {

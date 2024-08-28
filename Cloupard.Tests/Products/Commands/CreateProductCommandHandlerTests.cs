@@ -1,5 +1,5 @@
 using Cloupard.Application.Products.Commands.CreateProduct;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 using Cloupard.Tests.Common;
 using Shouldly;
 

@@ -1,6 +1,6 @@
 using Cloupard.Application.Common.Exceptions;
 using Cloupard.Domain.Entities;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 using MediatR;
 
 namespace Cloupard.Application.Products.Commands.UpdateProduct;

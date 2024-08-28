@@ -1,4 +1,4 @@
-namespace Cloupard.Application.Interfaces;
+namespace Cloupard.Application.Interfaces.Services;
 
 public interface ICurrentUserService
 {

@@ -1,5 +1,5 @@
 using System.Security.Claims;
-using Cloupard.Application.Interfaces;
+using Cloupard.Application.Interfaces.Services;
 
 namespace Cloupard.WebApi.Services;
 

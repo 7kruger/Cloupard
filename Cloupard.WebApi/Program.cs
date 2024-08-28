@@ -1,7 +1,7 @@
 using System.Reflection;
 using System.Text;
 using Cloupard.Application;
-using Cloupard.Application.Interfaces;
+using Cloupard.Application.Interfaces.Services;
 using Cloupard.DAL;
 using Cloupard.WebApi.Middlewares;
 using Cloupard.WebApi.Services;

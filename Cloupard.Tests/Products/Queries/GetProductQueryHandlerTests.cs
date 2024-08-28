@@ -1,8 +1,7 @@
 using AutoMapper;
 using Cloupard.Application.Common.Exceptions;
-using Cloupard.Application.Products.Commands.UpdateProduct;
+using Cloupard.Application.Interfaces.Repositories;
 using Cloupard.Application.Products.Queries.GetProduct;
-using Cloupard.Domain.Interfaces;
 using Cloupard.Tests.Common;
 using Shouldly;
 

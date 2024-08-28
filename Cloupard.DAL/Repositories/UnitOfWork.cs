@@ -1,6 +1,6 @@
 using Cloupard.DAL.Data;
 using Cloupard.Domain.Entities;
-using Cloupard.Domain.Interfaces;
+using Cloupard.Application.Interfaces.Repositories;
 using Microsoft.EntityFrameworkCore.Storage;
 
 namespace Cloupard.DAL.Repositories;
